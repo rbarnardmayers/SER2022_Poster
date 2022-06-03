@@ -22,5 +22,4 @@ References:
 <ul>
   <li> Murray EJ, Caniglia EC, Petito LC. Causal survival analysis: A guide to estimating intention-to-treat and per-protocol effects from randomized clinical trials with non-adherence. Research Methods in Medicine & Health Sciences. 2021;2(1):39-49. doi:10.1177/2632084320961043</li>
     <li> Hernán MA, Robins JM (2020). Causal Inference: What If. Boca Raton: Chapman & Hall/CRC.</li>
-    <li> </li>
  </ul>
