@@ -10,10 +10,17 @@ Supplementary Material for my SER 2022 Poster Presentation "Connecting the DAGs:
 <b>Conclusions:</b> DAGs are critical for data analysis, and incorrect usage of the DAG or the incorrect DAG can lead to inaccurate effect estimates. <br>
 
 
-Citations: 
+DAG Citations: 
 <ul>
   <li> Example 1:  Kouser HN, Barnard-Mayers R, Murray E. Complex systems models for causal inference in social epidemiology. J Epidemiol Community Health. 2020 Nov 10:jech-2019-213052. doi: 10.1136/jech-2019-213052. Epub ahead of print. PMID: 33172839; PMCID: PMC8849440. </li>
   <li> Example 2: Ruby Barnard-Mayers, Hiba Kouser, Jamie A. Cohen, Katherine Tassiopoulos, Ellen C. Caniglia, Anna-Barbara Moscicki, Nicole G. Campos, Michelle R. Caunca, George R. Seage Seage, Eleanor J Murray, A case study and proposal for publishing directed acyclic graphs: The effectiveness of the quadrivalent human papillomavirus vaccine in perinatally HIV Infected girls. Journal of Clinical Epidemiology. 144:127-135, 2022. ISSN 0895-4356. https://doi.org/10.1016/j.jclinepi.2021.12.028. </li>
-  <li> Example 3: </li>
-  <li> Example 4: </li>
+  <li> Example 3: Haadiya Cheema, Work in Progress</li>
+  <li> Example 4: Julia Debertin, Work in Progress </li>
 </ul>
+
+References: 
+<ul>
+  <li> Murray EJ, Caniglia EC, Petito LC. Causal survival analysis: A guide to estimating intention-to-treat and per-protocol effects from randomized clinical trials with non-adherence. Research Methods in Medicine & Health Sciences. 2021;2(1):39-49. doi:10.1177/2632084320961043</li>
+    <li> Hernán MA, Robins JM (2020). Causal Inference: What If. Boca Raton: Chapman & Hall/CRC.</li>
+    <li> </li>
+ </ul>
